@@ -1,0 +1,20 @@
+Constrained Instances: 'link-1', 'upperbeamframe-1'
+Constraint Name: Concentric3
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'link-1', 'link-2', 'upperbeamframe-1', 'upperbeamframe-1'
+Constraint Name: Width1
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'link-1', 'upperbeamframe-1'
+Constraint Name: Parallel1
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'beam-1', 'beam-1', 'link-1', 'link-2'
+Constraint Name: Width2
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'uppershaft-1', 'uppershaft-1', 'link-1', 'link-2'
+Constraint Name: Width3
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
