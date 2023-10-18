@@ -1,0 +1,1 @@
+These 'trial' folders are for "Improvement" section of Integration report.
